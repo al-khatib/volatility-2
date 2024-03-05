@@ -30,6 +30,8 @@ The script performs the following actions:
 
 After installation, you can run Volatility from anywhere in your terminal by simply typing `volatility`.
 
+First test: volatility -h
+
 ## Contribution
 
 Contributions are welcome! If you'd like to contribute, feel free to fork this repository and submit a pull request.
