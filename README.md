@@ -23,7 +23,6 @@ To use the script:
 The script performs the following actions:
 
 - Clones the Volatility repository from the official Volatility Foundation GitHub page.
-- Installs the dependencies listed in the `requirements.txt` file.
 - Creates a wrapper script to invoke Volatility with Python 2.7.
 - Sets up a symbolic link to run Volatility with just the `volatility` command.
 
