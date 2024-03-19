@@ -17,7 +17,7 @@ This repository provides an automated script for installing the Volatility memor
 To use the script:
 
 1. Clone this repository.
-2. Make the script executable with `chmod +x install_volatility.sh`.
+2. Make the script executable with `sudo chmod +x install_volatility.sh`.
 3. Run the script with `./install_volatility.sh`.
 
 The script performs the following actions:
